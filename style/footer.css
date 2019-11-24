@@ -1,0 +1,20 @@
+/* FOOTER STYLING */
+.footer{
+	font-size: 85%;
+	background-color: black;
+	opacity: 0.5;
+	color: white;
+	margin: 0 !important;
+}
+
+.siteBy{
+	font-size: 85%;
+}
+
+.socialMedia{
+	font-size: 200%;
+}
+.photoBy{
+	margin: 0!important;
+	
+}
